@@ -1,0 +1,35 @@
+Review
+What is the purpose of the Hello Worl! program?
+Check all the possibilities and start to be familiarized with the sintax
+
+Name the four parts of a function:
+return type, name, parameter list, function body
+
+Name a function that must appear in every c++ program:
+main
+
+In the Hello world program waht is the function of the line return 0?
+On some systems like Unix/Linux this return value coudl be used to check if the program
+succed. A 0 returned by the main() fution indicates that the program terminated succesfully.
+
+What is the purpose of a compiler?
+Change source code to machine executable code
+
+What is the purpose of the #include directive?
+Make whatever the file included have available in the program that uses it
+
+What does a .h suffix at the end of a file name signify in c++?
+It means that this file is a header and has the structures definition of the program
+
+What does the linker do for you program?
+It manages to merge all the .object or .o files to build an executable file
+
+What is the difference between a source file and an object file?
+Asource file is defined as the file where a programmer types the instructions in a top level
+programming code, the object file is the output of the compiler and the input for the linker.
+
+What is an IDE and waht does it do for you?
+Help you to program
+
+If you understand everything in this book, why it is necessary to practice?
+Just to keep exercising.
